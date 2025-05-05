@@ -1,6 +1,11 @@
 # Bloodhound CLI
 Enumerate Bloodhound generated ZIP files from CLI.
 
+## Note
+
+If you're looking for SpecterOps' version of bloodhound-cli, which helps users install BloodHound Community Edition, you're in the wrong place. Please head over to: https://github.com/specterOps/bloodHound-cli.
+
+
 ## Usage
 
 **Set target Zip File**
